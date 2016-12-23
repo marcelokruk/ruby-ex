@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Open Cloud</h1>
+            <h1>Open Cloud by MKruk</h1>
           </hgroup>
 
 
